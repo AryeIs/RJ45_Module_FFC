@@ -1,0 +1,7 @@
+### Footprint positions - created on 2023 August 07, Monday 23:32:00 ###
+### Printed by KiCad version 7.0.2-0
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                     Package                                         PosX       PosY       Rot  Side
+J2        Conn_01x13_MountingPin  TE_1-1734839-3_1x13-1MP_P0.5mm_Horizontal   208.8124   -78.9800    0.0000  bottom
+## End
